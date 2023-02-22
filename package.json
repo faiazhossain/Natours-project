@@ -1,0 +1,23 @@
+{
+  "name": "natours-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faiazhossain/Natours-project.git"
+  },
+  "keywords": [],
+  "author": "Faiaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faiazhossain/Natours-project/issues"
+  },
+  "homepage": "https://github.com/faiazhossain/Natours-project#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
